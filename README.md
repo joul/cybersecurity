@@ -59,7 +59,7 @@ Below are some of the key projects I've worked on. Each project repository conta
 ---
 ### 🛠️ Other Noteworthy Projects & Contributions
 
-* **[Project E Name]:** [Brief description]. ([Link to Repo E])
+* **OT/IT Cybersecurity: Real-World Impact:** A Water Treatment Plant Scenario. (https://sites.google.com/student.ltu.se/otsimulator-waterplan/home)
 * **[Tool/Script F Name]:** [Brief description]. ([Link to Repo F])
 * **[Contribution to Open Source Project G]:** [Brief description of your contribution]. ([Link to PR/Issue/Repo G])
 * **[Security Research Paper/Blog Post H]:** [Brief summary and link if hosted elsewhere, or link to a markdown file in a repo].
