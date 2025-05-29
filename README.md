@@ -47,7 +47,6 @@ Below are some of the key projects I've worked on. Each project repository conta
 ---
 ### 📌 Featured Projects
 
-*(Pin these repositories on your GitHub profile as well!)*
 
 | Project Title                                   | Description                                                                                               | Technologies Used                           | Link                                        |
 | :---------------------------------------------- | :-------------------------------------------------------------------------------------------------------- | :------------------------------------------ | :------------------------------------------ |
