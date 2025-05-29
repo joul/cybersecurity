@@ -9,7 +9,7 @@ def generate_a_salt():
     str_salt = str(salt)
     encoded_string = str_salt.encode()
     return bytearray(encoded_string)  # The salt is returned as a byte_array
-message_to_hash=b'Jonathan'
+message_to_hash=b'ThisIsCool' #Secret text message
 
 md5_hasher = hashlib.md5(message_to_hash)
 print("MD5 hash: ", md5_hasher.hexdigest())
