@@ -50,9 +50,8 @@ Below are some of the key projects I've worked on. Each project repository conta
 
 | Project Title                                   | Description                                                                                               | Technologies Used                           | Link                                        |
 | :---------------------------------------------- | :-------------------------------------------------------------------------------------------------------- | :------------------------------------------ | :------------------------------------------ |
-| **Project A: [e.g., Vulnerability Scanner]** | A brief but compelling summary of what the project does and its purpose. Highlight key achievements.        | Python, Nmap API, [Other relevant tech]     | [Link to Repo A](./link-to-your-repo-A)     |
-| **Project B: [e.g., CTF Writeup Collection]** | A collection of detailed write-ups for Capture The Flag challenges, demonstrating problem-solving skills. | Markdown, [Specific CTF tools/platforms]    | [Link to Repo B](./link-to-your-repo-B)     |
-| **Project C: [e.g., Secure Coding Practices Demo]**| An example application showcasing secure coding practices and common vulnerability mitigations.             | Java, Spring Security, OWASP ZAP, [etc.]    | [Link to Repo C](./link-to-your-repo-C)     |
+| **Project A: [IDS-IDPS]** | A brief but compelling summary of what the project does and its purpose. Highlight key achievements.        | Python, Nmap API, [Other relevant tech]     | [WAZUH](./link-to-your-repo-A)     |
+| **Project B: [RSA Project]** | Lab showcasing how two parties establish secure communication using RSA. | Markdown, [Python, VMware, Kali, ]    | [Link to Repo B](./link-to-your-repo-B)     |
 | **Project D: [e.g., Home Lab Setup Guide]** | Documentation and scripts for setting up a personal cybersecurity lab environment for learning and testing. | VirtualBox/VMware, pfSense, SecurityOnion | [Link to Repo D](./link-to-your-repo-D)     |
 
 ---
