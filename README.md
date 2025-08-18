@@ -50,9 +50,9 @@ Below are some of the key projects I've worked on. Each project repository conta
 
 | Project Title                                   | Description                                                                                               | Technologies Used                           | Link                                        |
 | :---------------------------------------------- | :-------------------------------------------------------------------------------------------------------- | :------------------------------------------ | :------------------------------------------ |
-| **Project A: [IDS-IDPS]** | A brief but compelling summary of what the project does and its purpose. Highlight key achievements.        | Python, Nmap API, [Other relevant tech]     | [WAZUH](./link-to-your-repo-A)     |
-| **Project B: [RSA Project]** | Lab showcasing how two parties establish secure communication using RSA. | Markdown, [Python, VMware, Kali, ]    | [Link to Repo B](https://github.com/joul/encryption-lab/tree/main)     |
-| **Project D: [e.g., Home Lab Setup Guide]** | Documentation and scripts for setting up a personal cybersecurity lab environment for learning and testing. | VirtualBox/VMware, pfSense, SecurityOnion | [Link to Repo D](./link-to-your-repo-D)     |
+| **Project A: [RSA Project]** | Lab showcasing how two parties establish secure communication using RSA. | Markdown, [Python, VMware, Kali, ]    | [Link to Repo A](https://github.com/joul/encryption-lab/tree/main)     |
+| **Project B: [e.g., Home Lab Setup Guide]** | Documentation and scripts for setting up a personal cybersecurity lab environment for learning and testing. | VirtualBox/VMware, pfSense, SecurityOnion | [Link to Repo D](./link-to-your-repo-D)     |
+| **Project C: [IDS-IDPS]** | A brief but compelling summary of what the project does and its purpose. Highlight key achievements.        | Python, Nmap API, [Other relevant tech]     | [Link to Repo C](./link-to-your-repo-A)     |
 
 ---
 ### 🛠️ Other Noteworthy Projects & Contributions
